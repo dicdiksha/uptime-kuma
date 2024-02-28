@@ -9,7 +9,7 @@ Uptime Kuma is an easy-to-use self-hosted monitoring tool.
 Uptime Kuma is now running on 
 
 - ✅ DEV - https://jenkins.oci.diksha.gov.in/uptime
-- ✅ PROD -https://10.90.12.71:8443/dashboard/home
+- ✅ PROD - http://10.90.12.71:3001/dashboard
 
 
 - Username : admin
