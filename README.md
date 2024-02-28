@@ -19,15 +19,16 @@ Uptime Kuma is now running on
 
 ## Notification
 
-- Enabled in MS Teams and Salck using webhook
+- Enabled notificatoin using MS Teams and Slack using webhook
 - Go to profile --> settings--> notification
 
 <img src="image-2.png"  width="700" alt="" />
 
-- click on the edit any notification
-
 <img src="image-1.png"  width="700" alt="" />
 
+<img src="image-3.png"  width="700" alt="" />
+
+<img src="image-4.png"  width="700" alt="" />
 
 ## ⭐ Features
 
